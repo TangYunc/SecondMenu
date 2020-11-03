@@ -1,0 +1,1 @@
+../../../iOSDevFrameworks/UITools/UITools/YXSlider/YXSlider.h

@@ -1,0 +1,22 @@
+//
+//  SecondMenuTest.pch
+//  SecondMenuTest
+//
+//  Created by tangyunchuan on 2020/11/3.
+//
+
+#ifndef SecondMenuTest_pch
+#define SecondMenuTest_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "UIViewUtil.h"
+#import "UIViewExt.h"
+#import "KKDToolsDefine.h"
+#import "NSString+KKDSizeWithFont.h"
+#import "KKDColorDefine.h"
+#import "UIViewTools.h"
+#import "Masonry.h"
+#import "UIView+Extension.h"
+
+#endif /* SecondMenuTest_pch */

@@ -1,0 +1,1 @@
+../../../iOSDevFrameworks/UITools/UITools/SDCycleScrollView/SDCollectionViewCell.h

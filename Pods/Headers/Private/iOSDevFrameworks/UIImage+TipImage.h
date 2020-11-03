@@ -1,0 +1,1 @@
+../../../iOSDevFrameworks/UITools/UITools/UICategroy/UIImage+TipImage.h
